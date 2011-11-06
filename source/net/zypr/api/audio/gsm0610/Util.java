@@ -13,24 +13,20 @@
  * 
  */
 
+ /*
+  * GSM 06.10 JAVA
+  * Copyright (C) 2010 Alan K. Gordon
+  *
+  * This program is free software; you can redistribute it and/or modify it as long as this notice is kept with the code.
+  *
+  * This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+  * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  *
+  * This JAVA code is a close port of the code that is Copyright 1992 by Jutta Degener and Carsten Bormann, Technische
+  * Universitaet Berlin.
+  *
+  */
 
-/*
- * GSM 06.10 JAVA
- * Copyright (C) 2010 Alan K. Gordon
- *
- * This program is free software; you can redistribute it and/or
- * modify it as long as this notice is kept with the code.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
- *
- *
- * This JAVA code is a close port of the code that is
- * Copyright 1992 by Jutta Degener and Carsten Bormann, Technische
- * Universitaet Berlin. See the accompanying file "Copyright1992.txt"
- * for the original Copyright file for the original C code.
- */
 package net.zypr.api.audio.gsm0610;
 
 public class Util
